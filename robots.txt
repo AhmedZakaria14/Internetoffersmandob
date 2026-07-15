@@ -1,3 +1,10 @@
 User-agent: *
 Allow: /
-Sitemap: https://ahmedzakaria14.github.io/Internetoffersmandob/sitemap.xml
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+
+Sitemap: https://internetoffersmandob.vercel.app/sitemap.xml
