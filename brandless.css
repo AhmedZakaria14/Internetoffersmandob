@@ -3,3 +3,12 @@
 .slides{aspect-ratio:4/5}
 .slide:first-child img{object-position:center}
 @media(max-width:900px){.header nav{display:none}.header-call{margin-right:auto}}
+
+body{font-family:Tahoma,Arial,sans-serif}
+.service-info{background:#f6f8f1}
+.legal-note{max-width:900px;margin:auto;padding:22px 24px;border:1px solid #d9e5cb;border-radius:16px;background:#fff;color:#56604d}
+.policy-links{display:flex;gap:18px;justify-content:center;font-size:13px}
+.policy-links a{text-decoration:underline;text-underline-offset:4px}
+.policy-page h1{font-size:clamp(34px,5vw,56px);margin:8px 0}
+.policy-page .legal-note h2{font-size:21px;color:#365b08;margin:28px 0 4px}
+.policy-page .legal-note h2:first-child{margin-top:0}
